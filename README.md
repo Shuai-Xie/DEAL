@@ -10,7 +10,7 @@ Finally, we can obtain the semantic difficulty map where the difficulty score fo
 <img src="web/framework.png"></img>
 </p>
 
-<font size="2.5" color="#00008b">
+<sub>
 Overview of our framework.
 The first branch is a common semantic segmentation network.
 The second branch is composed of a probability attention module and a 1×1 convolution.
@@ -19,7 +19,7 @@ The second branch is composed of a probability attention module and a 1×1 convo
 <i><b>P</b></i> and <i><b>Q</b></i> are the probability maps before and after attention.
 <i><b>L<sub>seg</sub></b></i> and <i><b>L<sub>dif</sub></b></i> are two loss functions. 
 DS and DE are two acquisition funcions.
-</font>
+</sub>
 
 
 ## Qualitative Results of Semantic Difficulty Map
