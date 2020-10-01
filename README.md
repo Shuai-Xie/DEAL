@@ -6,9 +6,9 @@ It's a binary image where the right and wrong positions have a value 0 and 1, re
 Then, a **pixel-wise probability attention module<sup>[2]</sup>** is introduced to **aggregate similar pixels into areas and learn the proportion of error pixels as the difficulty score for each area**. 
 Finally, we can obtain the semantic difficulty map where the difficulty score for each area has a **close connection with the standard IoU metric**.
 
-<center>
+<p align="center">
 <img src="web/framework.png"></img>
-</center>
+</p>
 
 <font size="2.5" color="#00008b">
 Overview of our framework.
