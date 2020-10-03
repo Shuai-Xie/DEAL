@@ -7,7 +7,7 @@ Then, a **pixel-wise probability attention module<sup>[2]</sup>** is introduced 
 Finally, we can obtain the semantic difficulty map where the difficulty score for each area has a **close connection with the standard IoU metric**.
 
 <p align="center">
-<img src="web/framework.png"></img>
+<img src="web/framework.png">
 </p>
 
 <sub>
@@ -80,5 +80,4 @@ It can be observed that objects with high difficulty scores have the following c
 
 1. Yoo D, Kweon I S. [Learning loss for active learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yoo_Learning_Loss_for_Active_Learning_CVPR_2019_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 93-102.
 2. Fu J, Liu J, Tian H, et al. [Dual attention network for scene segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fu_Dual_Attention_Network_for_Scene_Segmentation_CVPR_2019_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 3146-3154.
-
-
+3. ViewAL: https://github.com/nihalsid/ViewAL
