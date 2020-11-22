@@ -1,7 +1,7 @@
 import os
 import sys
 
-sys.path.insert(0, '/nfs/xs/tmp/DEAL')
+sys.path.insert(0, '/nfs/xs/codes/DEAL')
 os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 os.environ["CUDA_HOME"] = "/nfs/xs/local/cuda-10.2"

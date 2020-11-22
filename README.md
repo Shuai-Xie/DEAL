@@ -22,6 +22,12 @@ DS and DE are two acquisition funcions.
 </sub>
 
 
+## Compare with Previous Methods
+
+<p align="center">
+<img src="web/cmp.png">
+</p>
+
 ## Qualitative Results of Semantic Difficulty Map
 
 Below are the qualitative results we get in Cityscapes.
