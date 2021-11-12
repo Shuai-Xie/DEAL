@@ -1,5 +1,7 @@
 # DEAL 
 
+https://arxiv.org/abs/2010.08705
+
 In this work, we propose a semantic **Difficulty-awarE Active Learning (DEAL)** method taking the semantic difficulty into consideration.
 To capture the semantic difficulty, we adopt a two-branch framework and utilize the wrong predicted result, which is termed as the **error mask**.
 It's a binary image where the right and wrong positions have a value 0 and 1, respectively.
